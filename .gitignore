@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+07-AI-Engineer-Level-Up-System/data/*.db
+07-AI-Engineer-Level-Up-System/output/
+07-AI-Engineer-Level-Up-System/.playwright-cli/
+07-AI-Engineer-Level-Up-System/frontend/node_modules/
+07-AI-Engineer-Level-Up-System/frontend/*.tsbuildinfo
